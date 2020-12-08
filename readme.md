@@ -1,2 +1,2 @@
 =======
-statement prediction of digikala customers post with machine learnings
+Sentiment prediction of digikala customers post with machine learnings
